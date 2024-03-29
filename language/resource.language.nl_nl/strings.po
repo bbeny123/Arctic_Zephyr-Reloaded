@@ -2633,6 +2633,10 @@ msgctxt "#31722"
 msgid "Extras"
 msgstr "Extra's"
 
+msgctxt "#31723"
+msgid "Interactive progress bar"
+msgstr ""
+
 #~ msgctxt "#31179"
 #~ msgid "Show clearlogo"
 #~ msgstr "Toon clearlogo"

@@ -2632,3 +2632,7 @@ msgstr ""
 msgctxt "#31722"
 msgid "Extras"
 msgstr "Ekstras"
+
+msgctxt "#31723"
+msgid "Interactive progress bar"
+msgstr ""

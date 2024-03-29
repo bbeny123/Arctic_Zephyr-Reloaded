@@ -2632,3 +2632,7 @@ msgstr "Indstil som standard"
 msgctxt "#31722"
 msgid "Extras"
 msgstr "Ekstra"
+
+msgctxt "#31723"
+msgid "Interactive progress bar"
+msgstr ""
