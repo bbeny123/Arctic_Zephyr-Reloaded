@@ -2645,6 +2645,10 @@ msgctxt "#31725"
 msgid "Transparent underlay"
 msgstr "Przezroczyste tło OSD"
 
+msgctxt "#31726"
+msgid "Show target time instead of offset when seeking"
+msgstr "Pokazuj docelowy czas zamiast offsetu podczas przewijania"
+
 #~ msgctxt "#31179"
 #~ msgid "Show clearlogo"
 #~ msgstr "Pokazuj logo"
