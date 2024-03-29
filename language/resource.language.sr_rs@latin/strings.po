@@ -2632,3 +2632,7 @@ msgstr ""
 msgctxt "#31722"
 msgid "Extras"
 msgstr "Dodaci"
+
+msgctxt "#31726"
+msgid "Show target time instead of offset when seeking"
+msgstr ""
