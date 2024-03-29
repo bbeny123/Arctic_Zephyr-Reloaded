@@ -2637,6 +2637,14 @@ msgctxt "#31723"
 msgid "Interactive progress bar"
 msgstr ""
 
+msgctxt "#31724"
+msgid "Clear underlay"
+msgstr ""
+
+msgctxt "#31725"
+msgid "Transparent underlay"
+msgstr ""
+
 #~ msgctxt "#31703"
 #~ msgid "Small Landscape"
 #~ msgstr "Panorama piccolo"

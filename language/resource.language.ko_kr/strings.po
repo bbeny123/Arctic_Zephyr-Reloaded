@@ -2636,6 +2636,14 @@ msgctxt "#31723"
 msgid "Interactive progress bar"
 msgstr ""
 
+msgctxt "#31724"
+msgid "Clear underlay"
+msgstr ""
+
+msgctxt "#31725"
+msgid "Transparent underlay"
+msgstr ""
+
 #~ msgctxt "#31179"
 #~ msgid "Show clearlogo"
 #~ msgstr "클리어로고 표시"
