@@ -2617,22 +2617,6 @@ msgctxt "#31718"
 msgid "Sandy yellow"
 msgstr "Piaskowy żółty"
 
-#~ msgctxt "#31719"
-#~ msgid "Add version"
-#~ msgstr "Dodaj wersję"
-
-#~ msgctxt "#31720"
-#~ msgid "Add extras"
-#~ msgstr "Dodaj dodatki"
-
-#~ msgctxt "#31721"
-#~ msgid "Set default"
-#~ msgstr "Ustaw domyślne"
-
-#~ msgctxt "#31722"
-#~ msgid "Extras"
-#~ msgstr "Dodatki"
-
 msgctxt "#31723"
 msgid "Interactive progress bar"
 msgstr "Interaktywny pasek postępu"
@@ -2648,6 +2632,22 @@ msgstr "Przezroczyste tło OSD"
 msgctxt "#31726"
 msgid "Show target time instead of offset when seeking"
 msgstr "Pokazuj docelowy czas zamiast offsetu podczas przewijania"
+
+#~ msgctxt "#31719"
+#~ msgid "Add version"
+#~ msgstr "Dodaj wersję"
+
+#~ msgctxt "#31720"
+#~ msgid "Add extras"
+#~ msgstr "Dodaj dodatki"
+
+#~ msgctxt "#31721"
+#~ msgid "Set default"
+#~ msgstr "Ustaw domyślne"
+
+#~ msgctxt "#31722"
+#~ msgid "Extras"
+#~ msgstr "Dodatki"
 
 #~ msgctxt "#31179"
 #~ msgid "Show clearlogo"

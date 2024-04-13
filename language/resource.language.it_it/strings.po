@@ -2617,22 +2617,6 @@ msgctxt "#31718"
 msgid "Sandy yellow"
 msgstr "Giallo sabbia"
 
-#~ msgctxt "#31719"
-#~ msgid "Add version"
-#~ msgstr "Aggiungi versione"
-
-#~ msgctxt "#31720"
-#~ msgid "Add extras"
-#~ msgstr "Aggiungi extra"
-
-#~ msgctxt "#31721"
-#~ msgid "Set default"
-#~ msgstr "Imposta predefinito"
-
-#~ msgctxt "#31722"
-#~ msgid "Extras"
-#~ msgstr "Extra"
-
 msgctxt "#31723"
 msgid "Interactive progress bar"
 msgstr ""
@@ -2648,6 +2632,22 @@ msgstr ""
 msgctxt "#31726"
 msgid "Show target time instead of offset when seeking"
 msgstr ""
+
+#~ msgctxt "#31719"
+#~ msgid "Add version"
+#~ msgstr "Aggiungi versione"
+
+#~ msgctxt "#31720"
+#~ msgid "Add extras"
+#~ msgstr "Aggiungi extra"
+
+#~ msgctxt "#31721"
+#~ msgid "Set default"
+#~ msgstr "Imposta predefinito"
+
+#~ msgctxt "#31722"
+#~ msgid "Extras"
+#~ msgstr "Extra"
 
 #~ msgctxt "#31703"
 #~ msgid "Small Landscape"
